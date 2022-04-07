@@ -1,4 +1,4 @@
-About me
+**About me**
 
 👋 Hello, My name is Khanh Nguyen with a MBA from Audencia Business School and a Google Data Analytics Certificate. I believe that data is a valuable resource for the world, to have more insights and ideas to improve and develop this world. I love being a part of it so I can dig deeper and understand more about the meaning behind the data.
 
