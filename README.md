@@ -8,7 +8,7 @@
 
 🔭 Or my LinkedIn profile: https://www.linkedin.com/in/nguyendkhanh/
 
-** Index**
+**Index**
 
  DataCamp Projects: https://github.com/dkhanhnguyen/Datacamp
 
