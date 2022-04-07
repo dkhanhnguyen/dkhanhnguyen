@@ -6,13 +6,9 @@
 
 📫 You can reach me through my email: ndk.khanhnguyen@gmail.com 
 
-<img src="{https://img.shields.io/badge/Google%20Analytics-E37400?style=for-the-badge&logo=google%20analytics&logoColor=white}" />
-
 🔭 Or my LinkedIn profile: https://www.linkedin.com/in/nguyendkhanh/
 
-<img src="{https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white}" />
- 
- Index
+** Index**
 
  DataCamp Projects: https://github.com/dkhanhnguyen/Datacamp
 
